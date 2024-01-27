@@ -1,0 +1,1 @@
+The economy in Argentina has always raised my interest (and probably every Argentinian). Last years` cummulative inflation in my country was of 211.4%, that is why I took data from the governments` APIs to analyse the data of the last 34 years and built a model using Random Forest to predict future inflation per month according to several macro economic variables
